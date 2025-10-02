@@ -2,158 +2,108 @@
 
 <div align="center">
   
-### 🤖 AI/ML Engineer | 📊 Data Scientist | 💻 Competitive Programmer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-yousry-271816269)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahman-yousry)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahman.kamal@ejust.edu.eg)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman-Yousry-Kamal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=abdelrahman.yousry121@gmail.com)
-
-
 
 </div>
 
----
-
 ## 🚀 About Me
 
-I'm passionate about pushing the boundaries of **artificial intelligence** and **machine learning**. With hands-on experience in building high-accuracy models using **TensorFlow** and **PyTorch**, I thrive on solving complex problems and turning data into actionable insights.
+Aspiring **AI/ML Engineer** and **Data Scientist** with a passion for building intelligent systems that solve real-world problems. Currently pursuing my B.Sc. in Computer Science and Engineering at **Egypt-Japan University of Science and Technology (E-JUST)**.
 
-```python
-class AbdelrahmanYousry:
-    def __init__(self):
-        self.location = "Alexandria, Egypt 🇪🇬"
-        self.education = "B.Sc. Computer Science & Engineering @ E-JUST"
-        self.interests = ["Deep Learning", "Computer Vision", "NLP", "Algorithmic Problem Solving"]
-        self.current_focus = "Generative AI & Attention Mechanisms"
-        self.fun_fact = "Ranked 185th/500 at ECPC 2024 🏆"
-        self.status = "Open to opportunities and collaborations!"
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together 🚀")
-    
-    def get_current_project(self):
-        return "Building Hadwiger Nelson Framework with Reinforcement Learning"
+- 🔭 I'm currently working on exploring the **Hadwiger-Nelson problem** using reinforcement learning
+- 🌱 I'm deepening my expertise in **NLP**, **RAG systems**, and **LLM fine-tuning**
+- 🏆 Ranked **1st** in NTI's NLP training program with a score of 99%
+- 💡 Passionate about **generative AI**, **attention mechanisms**, and **medical AI applications**
+- 📊 Experienced in leading teams and coordinating 20+ trainees
 
-me = AbdelrahmanYousry()
-me.say_hi()
-```
-
----
-
-## 🎓 Education
-
-**Egypt-Japan University of Science and Technology (E-JUST)**  
-📍 Alexandria, Egypt | 🗓️ Oct 2022 — Jan 2027  
-🎯 B.Sc. in Computer Science and Engineering
-
----
-
-## 💼 Professional Experience
-
-### 📊 Data Science Trainee
-**Digital Egypt Pioneers Initiative (DEPI)** | Jun 2025 — Present
-- Mastering data manipulation with **Pandas** & **Scikit-learn**, web scraping using **Selenium**
-- Building end-to-end **ML/DL pipelines** from data collection to model deployment
-- Leading and coordinating a team of **20+ trainees** in collaborative projects
-
-### 🤖 AI Intern
-**Mindset (Remote)** | Aug 2024 — Sep 2024
-- Completed intensive **90-hour program** covering CNNs, attention mechanisms, and statistical modeling
-- Achieved **94% model accuracy** while reducing processing time by **15%**
-- Designed medical imaging classifier using **VGG-16 + attention** with **90%+ test accuracy**
-
-### 🏆 Competitive Programmer
-**Egyptian Collegiate Programming Contest (ECPC)** | Jul 2024
-- Ranked **185th out of 500 teams** solving algorithmic challenges
-- Tackled problems in dynamic programming, graph theory, and string algorithms under time constraints
-
----
-
-## 🛠️ Featured Projects
-
-### 🌐 [Hadwiger Nelson Framework](https://github.com/Abdelrahman-Yousry-Kamal)
-**Tech:** Python, NetworkX, Reinforcement Learning  
-Scalable framework for unit-distance graph visualization and chromatic number optimization using RL algorithms.
-
-### 🎨 [Generative AI Model](https://github.com/Abdelrahman-Yousry-Kamal)
-**Tech:** TensorFlow, CNNs, GANs, VAEs  
-Image synthesis system trained on CIFAR-10, experimenting with various generative architectures.
-
-### 📚 [Attention Mechanisms Literature Review](https://github.com/Abdelrahman-Yousry-Kamal)
-**Tech:** Research, Technical Writing  
-Comprehensive analysis of **25+ research papers** on attention mechanisms in deep learning, covering Transformers, self-attention, and additive attention.
-
-### ⚙️ [x86 Assembler with GUI](https://github.com/Abdelrahman-Yousry-Kamal)
-**Tech:** Python, Tkinter  
-Custom assembler featuring syntax highlighting and intuitive GUI for assembly instruction processing.
-
-### 💰 [Expense Tracker](https://github.com/Abdelrahman-Yousry-Kamal)
-**Tech:** Python, Tkinter, SQLite  
-Personal finance manager with visual analytics, budget tracking, and persistent SQLite database.
-
----
-
-## 🔧 Technical Arsenal
+## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI/ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Engineering Tools:** LTspice, Proteus, SolidWorks, Arduino IDE, Cisco Packet Tracer
+## 🌟 Featured Projects
 
----
+### 🥗 [Dietitian – AI Nutrition Coach](https://github.com/Abdelrahman-Yousry-Kamal)
+Multi-modal nutrition coaching app with AI-powered food recognition and personalized recommendations
+- **Tech Stack:** Flask, Google Gemini Vision API, ChromaDB, RAG
+- **Features:** Text/voice/image input, 10,000+ food database, automatic calorie calculation
 
-## 🌟 Core Strengths
+### 🏥 [Medical QA Chatbot](https://github.com/Abdelrahman-Yousry-Kamal)
+Healthcare-focused chatbot using fine-tuned LLM for accurate medical consultations
+- **Tech Stack:** Mistral-7B, Transformers, Prompt Engineering
+- **Achievement:** Optimized for healthcare-specific Q&A tasks
 
-- 🗣️ **Communication** — Translating complex technical concepts into clear, actionable insights
-- 🤝 **Collaboration** — Thriving in cross-functional teams and agile environments
-- ⚡ **Adaptability** — Rapidly mastering emerging technologies and industry trends
-- 🎯 **Problem Solving** — Critical thinking with meticulous attention to detail
-- 📚 **Self-Learning** — Continuous knowledge acquisition and skill development
-- 🌍 **Languages** — Arabic (Native), English (C1)
+### 💬 [Emotion-Aware Empathetic Chatbot](https://github.com/Abdelrahman-Yousry-Kamal)
+Real-time emotion detection and empathetic response generation system
+- **Tech Stack:** Streamlit, DistilBERT, FAISS, RAG
+- **Features:** Emotion analytics dashboard, semantic similarity matching
 
----
+### 🎨 [Generative AI Model](https://github.com/Abdelrahman-Yousry-Kamal)
+Image synthesis using GANs and VAEs on CIFAR-10 dataset
+- **Tech Stack:** TensorFlow, CNNs, GANs, VAEs
+- **Focus:** Exploring multiple architectures for enhanced visual quality
 
-## 📊 GitHub Stats
+### 🔬 [Hadwiger-Nelson Framework](https://github.com/Abdelrahman-Yousry-Kamal)
+Scalable framework for exploring unit-distance graphs using reinforcement learning
+- **Tech Stack:** Python, NetworkX, Reinforcement Learning
+- **Status:** Ongoing research project
+
+## 📈 GitHub Stats
 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelrahman-Yousry-Kamal&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Yousry-Kamal&layout=compact&theme=radical)
 
 </div>
 
----
+## 🎓 Certifications & Training
+
+- **NLP Training** - National Telecommunication Institute (NTI) | Ranked 1st with 99%
+- **Data Science Training** - Digital Egypt Pioneers Initiative (DEPI)
+- **AI Internship** - Mindset | 90-hour intensive program
+- **ECPC Participant** - Egyptian Collegiate Programming Contest | Ranked 185/500
+
+## 💼 Experience Highlights
+
+- 🧠 Developed medical imaging classifier with VGG-16 achieving **90%+ accuracy**
+- 📊 Coordinated teams of **20+ trainees** in data science programs
+- 🎯 Implemented CNNs with attention mechanisms achieving **94% accuracy**
+- 🚀 Built RAG pipelines and fine-tuned LLMs for real-world applications
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate on AI/ML projects, discuss cutting-edge research, or simply connect with fellow tech enthusiasts!
+I'm always interested in collaborating on AI/ML projects, discussing research ideas, or connecting with fellow developers. Feel free to reach out!
 
-<div align="center">
-
-**📧 Email:** abdelrahman.yousry121@gmail.com  
-**📱 Phone:** +20 120 300 0122
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-yousry-271816269)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelrahman-Yousry-Kamal)
+- 📧 Email: abdelrahman.kamal@ejust.edu.eg
+- 💼 LinkedIn: [linkedin.com/in/abdelrahman-yousry](https://linkedin.com/in/abdelrahman-yousry)
+- 📱 Phone: +20 120 300 0122
 
 ---
 
-⭐️ From [Abdelrahman Yousry Kamal](https://github.com/Abdelrahman-Yousry-Kamal)
+<div align="center">
+  
+*"Building intelligent systems that make a difference"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Abdelrahman-Yousry-Kamal&color=blueviolet&style=flat-square)
 
 </div>
