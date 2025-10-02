@@ -24,9 +24,13 @@ class AbdelrahmanYousry:
         self.interests = ["Deep Learning", "Computer Vision", "NLP", "Algorithmic Problem Solving"]
         self.current_focus = "Generative AI & Attention Mechanisms"
         self.fun_fact = "Ranked 185th/500 at ECPC 2024 🏆"
+        self.status = "Open to opportunities and collaborations!"
     
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing together 🚀")
+    
+    def get_current_project(self):
+        return "Building Hadwiger Nelson Framework with Reinforcement Learning"
 
 me = AbdelrahmanYousry()
 me.say_hi()
